@@ -6,7 +6,7 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-SOURCES +=  tst_algo_test.cpp
+INCLUDEPATH += $$PWD/include
 
 HEADERS += \
     $$PWD/include/bst.h \
@@ -18,4 +18,4 @@ HEADERS += \
     $$PWD/include/quicksort.h
 
 SOURCES += \
-    $$PWD/tst_main.cpp
+    $$PWD/tst_algo_test.cpp
