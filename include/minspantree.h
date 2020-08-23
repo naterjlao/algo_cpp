@@ -1,0 +1,5 @@
+#ifndef MINSPANTREE_H
+#define MINSPANTREE_H
+
+
+#endif // MINSPANTREE_H
