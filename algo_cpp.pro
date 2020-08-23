@@ -6,7 +6,7 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-INCLUDEPATH += $$PWD/include
+SOURCES +=  tst_algo_test.cpp
 
 HEADERS += \
     $$PWD/include/bst.h \
